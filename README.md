@@ -26,6 +26,6 @@ Monte Carlo bit error rate (BER) of Gray-coded 16-QAM over an AWGN channel, comp
 ## Run
 
 ```bash
-requirements.txt
+pip install -r requirements.txt
 python ber_16qam.py
 ```
