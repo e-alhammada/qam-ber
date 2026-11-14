@@ -47,4 +47,3 @@ ax.set_title("Gray 16-QAM over AWGN")
 ax.grid(True, which="both", alpha=0.3)
 ax.legend()
 fig.savefig("ber_16qam.png", dpi=150, bbox_inches="tight")   # image for the README
-plt.show()
